@@ -54,7 +54,7 @@ Set up foundational professional profiles on **three platforms** (GitHub, Linked
 Created account on HackerRank and completed the beginner-level “Solve Me First” challenge.  
 **Part B (Google Workspace – mandatory):**  
 Created a **Digital Literacy Awareness Quiz** Google Form (exactly 5 questions including MCQ and short answer).  
-**Google Form Link:** https://docs.google.com/forms/d/e/1FAIpQLSdJXFTbjhotaVhuG6NVgCze888iF_Yq8JgshhMMi8dnGZB3YA/viewform?usp=sharing&ouid=116746214817048643236  
+**Google Form Link:** https://forms.gle/jixRbkw1b4djhY8dA  
 **Screenshots:** Available in `task-3-platforms/`
 
 ### Task 4: Draft a Professional Email & Etiquette Guide (Module 4)
